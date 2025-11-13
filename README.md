@@ -2,7 +2,7 @@
 
 > Uma ferramenta interna de produtividade que usa IA Generativa (Google Gemini) para automatizar a escrita de relatórios e e-mails para clientes de agências.
 
-Este protótipo (direcionado à Click Interativo e TW2) demonstra como a IA Generativa pode resolver um gargalo operacional crítico em agências de marketing: a comunicação com o cliente.
+Este protótipo (direcionado à Click Interativo) demonstra como a IA Generativa pode resolver um gargalo operacional crítico em agências de marketing: a comunicação com o cliente.
 Caso deseje testar a ferramenta agora, pode acessar a URL: https://customer-report.streamlit.app
 
 ## 🎯 O Problema
